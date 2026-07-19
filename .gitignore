@@ -1,0 +1,17 @@
+# Betriebssystem- und Editor-Dateien
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+*~
+*.old
+*.old#
+
+# Lokale Arbeits- und Archivdateien
+*.zip
+Texte website Eifel-Festival/
+
+# Ungenutzte Stylesheet-Varianten
+css/style (4).css
+css/style01.css
