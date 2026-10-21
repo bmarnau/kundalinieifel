@@ -48,4 +48,4 @@ Danach `http://localhost:8000/` öffnen. Die GitHub-Pages-Auslieferung funktioni
 
 ## Lizenz
 
-Dieses Projekt steht unter der MIT-Lizenz. Einzelheiten stehen in `LICENSE`.
+Der Quellcode steht unter der MIT-Lizenz (`LICENSE`). Texte, Fotos, Flyer und sonstige Inhalte (`bilder/`, `docs/`, Texte in `index.html`) sind davon ausgenommen: alle Rechte vorbehalten, siehe `NOTICE`.
