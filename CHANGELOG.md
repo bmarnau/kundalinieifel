@@ -6,6 +6,12 @@ versioning follows [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+### Added
+- `NOTICE`: Texte, Bilder und Flyer von der MIT-Lizenz ausgenommen (alle Rechte vorbehalten)
+
+### Changed
+- README: Lizenzabschnitt an `NOTICE` angepasst
+
 ## [0.1.0] - 2026-07-19
 
 ### Added
